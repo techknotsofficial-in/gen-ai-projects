@@ -41,12 +41,8 @@ You will learn:
 
 ### 🔐 Add Token in Colab
 
-In your Colab notebook, run:
-
-```python
-from huggingface_hub import login
-login()
-```
+In your Colab notebook,
+HF_TOKEN = "replace your hugging face token"
 
 Paste your token when prompted.
 
@@ -84,27 +80,9 @@ image
 
 ---
 
-## 🖥 Sample UI Screenshot
 
-> 📌 Here is the UI screenshot:
 
-![UI Screenshot](Screenshot 2025-10-18 215957.png)
 
-```
-![UI Screenshot](path_to_screenshot)
-```
-
-## 🖼 Sample Generated Image
-
-> 📌 Here is a sample generated image:
-
-![Generated Image](Screenshot 2025-10-18 215957.png)
-
-```
-![Generated Image](path_to_image)
-```
-
----
 
 ## 🎯 Conclusion
 
